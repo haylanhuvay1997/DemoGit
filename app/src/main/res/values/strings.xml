@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CrazyMath</string>
+    <string name="CrazyMath">CrazyMath</string>
+    <string name="YourScore">Your Score:</string>
+    <string name="time">Time:</string>
+    <string name="hettime">Hết thời gian</string>
+</resources>
